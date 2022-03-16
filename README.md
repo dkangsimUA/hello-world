@@ -1,2 +1,2 @@
-# hello-world
-UA_GIST604B_a-0-2
+# Brief introduction of creating branches and merging through `GitHub` hello-world tutorial
+This was an assignment for the GIST 604B Open Source GIS class. 
